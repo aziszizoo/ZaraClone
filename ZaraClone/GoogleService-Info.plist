@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>575819602942-9cjkc3op2goo9bb43m2i1l3dqamd0u0k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.575819602942-9cjkc3op2goo9bb43m2i1l3dqamd0u0k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlLjqW0Y4OiUAaEtHR8pVmRS3_C2rIjRs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>575819602942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>matamata.news.ZaraClone</string>
+	<key>PROJECT_ID</key>
+	<string>emailreg-772e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emailreg-772e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:575819602942:ios:82e94639a42d28b80c3eaf</string>
+</dict>
+</plist>

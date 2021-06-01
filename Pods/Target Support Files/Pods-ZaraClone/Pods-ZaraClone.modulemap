@@ -1,0 +1,6 @@
+framework module Pods_ZaraClone {
+  umbrella header "Pods-ZaraClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
